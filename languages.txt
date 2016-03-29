@@ -1,0 +1,2 @@
+#English language name - Native language name - Language abbreviation - Country abbreviation
+english|English|en|gb
