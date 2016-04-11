@@ -1,5 +1,6 @@
 1|
 2|About wiringX|about-wiringx
 3|Platforms
-	3.1|PCDuino|platform-pcduino1
+	3.1|PCDuino 1|platform-pcduino1
 	3.2|BananaPi 1|platform-bananapi1
+	3.2|BananaPi M2|platform-bananapim2
