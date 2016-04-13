@@ -1,6 +1,10 @@
 1|
 2|About wiringX|about-wiringx
 3|Platforms
-	3.1|PCDuino 1|platform-pcduino1
-	3.2|BananaPi 1|platform-bananapi1
-	3.2|BananaPi M2|platform-bananapim2
+	3.1|Lemaker
+		3.1.1|BananaPi 1|platform-bananapi1
+		3.1.2|BananaPi M2|platform-bananapim2
+	3.2|LinkSprite
+		3.2.1|PCDuino 1|platform-pcduino1
+	3.3|SolidRun
+		3.3.1|Hummingboard Edge/Gate
