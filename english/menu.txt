@@ -13,3 +13,5 @@
 		3.4.2|1B Rev. 1|platform-raspberrypi1ab1
 		3.4.3|1A Rev. 2|platform-raspberrypi1ab2
 		3.4.4|1B Rev. 2|platform-raspberrypi1ab2
+		3.4.5|1A+|platform-raspberrypi1ab+
+		3.4.6|1B+|platform-raspberrypi1ab+
