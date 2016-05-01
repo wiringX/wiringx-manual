@@ -9,9 +9,8 @@
 	3.3|SolidRun
 		3.3.1|Hummingboard Edge/Gate|platform-hummingboard-edge
 	3.4|Raspberry Pi
-		3.4.1|1A Rev. 1|platform-raspberrypi1ab1
-		3.4.2|1B Rev. 1|platform-raspberrypi1ab1
-		3.4.3|1A Rev. 2|platform-raspberrypi1ab2
-		3.4.4|1B Rev. 2|platform-raspberrypi1ab2
-		3.4.5|1A+|platform-raspberrypi1abplus
-		3.4.6|1B+|platform-raspberrypi1abplus
+		3.4.1|1A / B Rev. 1|platform-raspberrypi1ab1
+		3.4.2|1A / B Rev. 2|platform-raspberrypi1ab2
+		3.4.3|1A+ / B+|platform-raspberrypi1abplus
+		3.4.4|2A / B|platform-raspberrypi2
+		3.4.5|3A / B|platform-raspberrypi3
