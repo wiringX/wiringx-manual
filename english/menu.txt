@@ -7,7 +7,8 @@
 	3.2|LinkSprite
 		3.2.1|PCDuino 1|platform-pcduino1
 	3.3|SolidRun
-		3.3.1|Hummingboard Edge/Gate|platform-hummingboard-edge
+		3.3.1|Hummingboard Base/Pro|platform-hummingboard-pro
+		3.3.2|Hummingboard Edge/Gate|platform-hummingboard-edge
 	3.4|Raspberry Pi
 		3.4.1|1A / B Rev. 1|platform-raspberrypi1ab1
 		3.4.2|1A / B Rev. 2|platform-raspberrypi1ab2
