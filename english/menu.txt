@@ -12,5 +12,5 @@
 		3.4.1|1A / B Rev. 1|platform-raspberrypi1ab1
 		3.4.2|1A / B Rev. 2|platform-raspberrypi1ab2
 		3.4.3|1A+ / B+|platform-raspberrypi1abplus
-		3.4.4|2A / B|platform-raspberrypi2
-		3.4.5|3A / B|platform-raspberrypi3
+		3.4.4|2A / B|platform-raspberrypi2ab
+		3.4.5|3A / B|platform-raspberrypi3ab
