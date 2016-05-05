@@ -18,3 +18,6 @@
 	3.5|SolidRun
 		3.5.1|Hummingboard Base/Pro|platform-hummingboard-pro
 		3.5.2|Hummingboard Edge/Gate|platform-hummingboard-edge
+4|SoC
+	4.1|Allwinner
+		4.1.1|A10|soc-allwinner-a10
