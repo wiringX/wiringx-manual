@@ -1,17 +1,20 @@
 1|
 2|About wiringX|about-wiringx
 3|Platforms
-	3.1|Lemaker
-		3.1.1|BananaPi 1|platform-bananapi1
-		3.1.2|BananaPi M2|platform-bananapim2
-	3.2|LinkSprite
-		3.2.1|PCDuino 1|platform-pcduino1
-	3.3|SolidRun
-		3.3.1|Hummingboard Base/Pro|platform-hummingboard-pro
-		3.3.2|Hummingboard Edge/Gate|platform-hummingboard-edge
+	3.1|Hardkernel
+		3.1.1|Odroid C1|platform-odroidc1
+		3.1.2|Odroid C2|platform-odroidc2
+	3.2|Lemaker
+		3.2.1|BananaPi 1|platform-bananapi1
+		3.2.2|BananaPi M2|platform-bananapim2
+	3.3|LinkSprite
+		3.3.1|PCDuino 1|platform-pcduino1
 	3.4|Raspberry Pi
 		3.4.1|1A / B Rev. 1|platform-raspberrypi1ab1
 		3.4.2|1A / B Rev. 2|platform-raspberrypi1ab2
 		3.4.3|1A+ / B+|platform-raspberrypi1abplus
 		3.4.4|2A / B|platform-raspberrypi2ab
 		3.4.5|3A / B|platform-raspberrypi3ab
+	3.5|SolidRun
+		3.5.1|Hummingboard Base/Pro|platform-hummingboard-pro
+		3.5.2|Hummingboard Edge/Gate|platform-hummingboard-edge
