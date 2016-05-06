@@ -21,3 +21,5 @@
 4|SoC
 	4.1|Allwinner
 		4.1.1|A10 / A31s|soc-allwinner-a10-a31s
+	4.2|NXP
+		4.2.1|IMX6SDLM / IMX6DQRM|soc-nxp-imx6
